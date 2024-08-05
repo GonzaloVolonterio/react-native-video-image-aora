@@ -70,9 +70,17 @@ Create a new file named .env in the root of your project and add the following c
 
 Examples App
 
-![a001-aora](https://github.com/user-attachments/assets/1fdd8fd9-0fc2-4a00-9940-23cbdf51a7b6) ![a002-aora](https://github.com/user-attachments/assets/ca806b39-b0cc-4d7a-8d98-a3b42c53ba99)
-![a003-aora](https://github.com/user-attachments/assets/40594d89-d5e9-4840-a955-657362243ee5) ![a004-aora](https://github.com/user-attachments/assets/dd36ff84-adb3-4c2b-9179-fc7d69a140bb)
-![a005-aora](https://github.com/user-attachments/assets/d73b0587-1d0a-4218-997c-5cb3145a3da7) ![a006-aora](https://github.com/user-attachments/assets/33ecc12b-a1d8-4e18-b260-38e1568d9fd3)
+![a001-aora](https://github.com/user-attachments/assets/fe21bf03-974a-4b7e-aa5d-acd7a5ae0e3d) ![a002-aora](https://github.com/user-attachments/assets/0ec402e5-5539-43b1-80bb-8d4bca43f96a)
+![a003-aora](https://github.com/user-attachments/assets/c157ebdc-4b2d-4d54-9ecd-0c78d3de04f9) ![a004-aora](https://github.com/user-attachments/assets/90a5e737-98c7-4ba5-be1d-196a9c1f6adb)
+![a005-aora](https://github.com/user-attachments/assets/99bb3a66-3156-4f91-bd9d-9730be17126b) ![a006-aora](https://github.com/user-attachments/assets/e4e19433-42ea-4458-b88f-983a55278b54)
+
+
+
+
+
+
+
+
 
 
 
