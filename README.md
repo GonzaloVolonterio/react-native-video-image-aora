@@ -1,6 +1,6 @@
 # Full Stack App for mobile
 
-## Aora video and image Sharing App in real time 
+## Aora Sharing video and image in real time 
 
 👉 Onboarding Screen: Engaging graphics and clear instructions welcome users to the app.
 
